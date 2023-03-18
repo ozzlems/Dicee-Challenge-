@@ -29,7 +29,14 @@ h1 {
   color: #ccbf4e;
   border-color: #232931;
 }
-
+h2{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 4px 3px #271c4e;
+  font-size: 3rem;
+  color: #ccbf4e;
+  border-color: #232931;
+}
 p {
   font-size: 2rem;
   font-weight: bold;
